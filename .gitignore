@@ -1,0 +1,6 @@
+# Project makiyat
+## Dependencies
+node_modules
+# IDEs & Editors
+.idea/
+.vscode/
