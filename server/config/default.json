@@ -1,0 +1,9 @@
+{
+	"server" : {
+		"host" : "localhost",
+		"port" : 5000
+	},
+	"database" : {
+		"uri": "mongodb+srv://authentication:authentication@cluster0.bkvds.mongodb.net/makiyat?retryWrites=true&w=majority"
+	}
+}
